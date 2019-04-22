@@ -1,0 +1,18 @@
+*{
+    background-color: aliceblue;
+}
+.naslov{
+    position: center;
+    display: inline-block;
+    font-size: 18px;
+    color: #3434343;
+    padding: 0px;
+    border-style: solid;
+    border: 2px solid red;
+}
+.lista{
+    position: absolute;
+    font-size: 18px;
+    color: blue;
+
+}
